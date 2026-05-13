@@ -1,0 +1,37 @@
+Run to the left
+
+// First frame at pixel (18, 80)
+sprite.setTextureRect(sf::IntRect({18, 80}, {29, 46}));
+// Second frame at pixel (84, 81)
+sprite.setTextureRect(sf::IntRect({84, 81}, {23, 46}))
+// Third frame at pixel (148, 80)
+sprite.setTextureRect(sf::IntRect({148, 80}, {22, 47}));
+// Fourth frame at pixel (210, 79)
+sprite.setTextureRect(sf::IntRect({210, 79}, {29, 44}));
+// Fifth frame at pixel (273, 81)
+sprite.setTextureRect(sf::IntRect({273, 81}, {30, 45}));
+// Sixth frame at pixel (340, 81)
+sprite.setTextureRect(sf::IntRect({340, 81}, {22, 46}));
+// Seventh frame at pixel (404, 80)
+sprite.setTextureRect(sf::IntRect({404, 80}, {22, 47}));
+// Eight frame at pixel (466, 78)
+sprite.setTextureRect(sf::IntRect({466, 78}, {29, 47}));
+
+
+Run to the Right
+// First frame at pixel (17, 208)
+sprite.setTextureRect(sf::IntRect({17, 208}, {29, 46}));
+// Second frame at pixel (85, 209)
+sprite.setTextureRect(sf::IntRect({85, 209}, {22, 46}));
+// Third frame at pixel (150, 208)
+sprite.setTextureRect(sf::IntRect({150, 208}, {22, 47}));
+// Fourth frame at pixel (209, 206)
+sprite.setTextureRect(sf::IntRect({209, 206}, {29, 45}));
+// Fifth frame at pixel (273, 208)
+sprite.setTextureRect(sf::IntRect({273, 208}, {29, 46}));
+// Sixth frame at pixel (342, 208)
+sprite.setTextureRect(sf::IntRect({342, 208}, {22, 47}));
+// Seventh frame at pixel (406, 208)
+sprite.setTextureRect(sf::IntRect({406, 208}, {20, 48}));
+// Eight frame at pixel (465, 205)
+sprite.setTextureRect(sf::IntRect({465, 205}, {29, 48}));

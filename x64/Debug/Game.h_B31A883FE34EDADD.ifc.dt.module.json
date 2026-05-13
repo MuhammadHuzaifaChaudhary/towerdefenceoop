@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Game.obj",
+            "outputs": [
+                "x64\\Debug\\Game.h_B31A883FE34EDADD.ifc.dt.module.json",
+                "x64\\Debug\\Game.h_B31A883FE34EDADD.ifc.dt.d.json",
+                "x64\\Debug\\Game.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\lenovo\\Desktop\\towergame\\towergame\\Game.h",
+                    "source-path": "c:\\users\\lenovo\\desktop\\towergame\\towergame\\game.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
